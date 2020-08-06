@@ -51,6 +51,10 @@ Bash              25 mins           █░░░░░░░░░░░░░�
 
 <img align="left" alt="mdhasnainali's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mdhasnainali&show_icons=true&hide_border=true" />
 
+<br />
+
+<img align="left" alt="mdhasnainali's Github Most Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdhasnainali&show_icons=true&hide_border=true" />
+
 [website]: https://github.com/mdhasnainali/
 [Facebook]: https://www.facebook.com/mdhasnainali.01/
 [instagram]: https://www.instagram.com/md_hasnain_ali/
