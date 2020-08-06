@@ -7,10 +7,8 @@
 - 🥅 2020 Goals: Be a good compettetive programmar.
 - ⚡ Fun fact: I love to debate, public speacking and learning new things.
 
-
 <br />
 <br />
-
 
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
@@ -21,9 +19,6 @@ Learning          2 hr 23 mins      █████░░░░░░░░░�
 Bash              25 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
 ```
 <!--END_SECTION:waka-->
-
-
-<br />
 <br />
 
 ### Connect with me:
@@ -32,9 +27,6 @@ Bash              25 mins           █░░░░░░░░░░░░░�
 [<img align="left" alt="mdhasnainali | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="mdhasnainali | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="mdhasnainali | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook]
-
-
-
 
 
 
