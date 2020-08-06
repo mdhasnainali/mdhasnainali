@@ -1,10 +1,10 @@
 ### Hi there, I'm Md. Hasnain Ali [mdhasnainali][website] 👋
 
 ## I'm a Student, Competitive Programmer, Problem Solver, Developer, & Tech Enthusiasts  !
-- 🔭 I’m currently studying in Computer Science & Engineering at [University of Rajshahi][UR]!
-- 🌱 I’m currently learning everything!
-- 👯 I’m looking to collaborate with other content creators.
-- 🥅 2020 Goals: Be a good Competitive Programmer.
+- 🎓 I’m currently studying in Computer Science & Engineering at [University of Rajshahi][UR]!
+- 🌱 I’m currently learning Java & Python!
+- 🔭 I’m looking to collaborate with other content creators.
+- 🎯 2020 Goals: Be a good Competitive Programmer.
 - ⚡ Fun fact: I love to debate, public speacking and learning new things.
 
 <br />
@@ -12,10 +12,10 @@
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Problem Solving   4 hrs 53 mins     ███████████░░░░░░░░░░░░░░   44.19 % 
-C++               3 hr 22 mins      ███████░░░░░░░░░░░░░░░░░░   30.46 %  
-Learning          2 hr 23 mins      █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
-Bash              25 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+Problem Solving   4 hrs 53 mins     ███████████░░░░░░░░░░░░░░   44.19 %
+C++               3 hr 22 mins      ███████░░░░░░░░░░░░░░░░░░   30.46 %
+Learning          2 hr 23 mins      █████░░░░░░░░░░░░░░░░░░░░   21.56 %
+Bash              25 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
 ```
 <!--END_SECTION:waka-->
 ---
@@ -68,4 +68,4 @@ Bash              25 mins           █░░░░░░░░░░░░░�
 [AI]: https://en.wikipedia.org/wiki/Adobe_Illustrator
 [PS]: https://en.wikipedia.org/wiki/Adobe_Photoshop
 [Ubuntu]: https://en.wikipedia.org/wiki/Ubuntu
-[java]: https://en.wikipedia.org/wiki/Java_(programming_language)/
+[Java]: https://en.wikipedia.org/wiki/Java_(programming_language)/
