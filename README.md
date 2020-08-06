@@ -27,7 +27,7 @@ Bash              25 mins           █░░░░░░░░░░░░░�
 [<img align="left" alt="mdhasnainali | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="mdhasnainali | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook]
 
-
+<br \>
 
 ### Languages and Tools:
 
