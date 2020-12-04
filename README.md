@@ -12,10 +12,12 @@
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
+
 Problem Solving   4 hrs 53 mins     ███████████░░░░░░░░░░░░░░   44.19 %
 C++               3 hr 22 mins      ███████░░░░░░░░░░░░░░░░░░   30.46 %
 Learning          2 hr 23 mins      █████░░░░░░░░░░░░░░░░░░░░   21.56 %
 Bash              25 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
+
 ```
 <!--END_SECTION:waka-->
 ---
@@ -59,7 +61,7 @@ Bash              25 mins           █░░░░░░░░░░░░░�
 [Facebook]: https://www.facebook.com/mdhasnainali.01/
 [instagram]: https://www.instagram.com/md_hasnain_ali/
 [linkedin]: https://www.linkedin.com/in/mdhasnainali/
-[VS]: https://en.wikipedia.org/wiki/Visual_Studio_Code/
+[VS]: https://en.wikipedia.org/wiki/Visual_Studio_Code
 [HTML]: https://en.wikipedia.org/wiki/HTML/
 [CSS]: https://en.wikipedia.org/wiki/Cascading_Style_Sheets
 [UR]: http://www.ru.ac.bd/
