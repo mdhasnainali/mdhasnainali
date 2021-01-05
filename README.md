@@ -4,7 +4,7 @@
 - 🎓 I’m currently studying in Computer Science & Engineering at [University of Rajshahi][UR]!
 - 🌱 I’m currently learning Java & Python!
 - 🔭 I’m looking to collaborate with other content creators.
-- 🎯 2020 Goals: Be a good Competitive Programmer.
+- 🎯 2021 Goals: Be a good Competitive Programmer & Good Developer.
 - ⚡ Fun fact: I love to debate, public speacking and learning new things.
 
 <br />
