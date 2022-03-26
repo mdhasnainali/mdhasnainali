@@ -2,9 +2,9 @@
 
 ## I'm a Student, Competitive Programmer, Problem Solver, Developer, & Tech Enthusiasts  !
 - 🎓 I’m currently studying in Computer Science & Engineering at [University of Rajshahi][UR]!
-- 🌱 I’m currently learning Java & Python!
+- 🌱 I’m currently learning Java & Laravel!
 - 🔭 I’m looking to collaborate with other content creators.
-- 🎯 2021 Goals: Be a good Competitive Programmer & Good Developer.
+- 🎯 2022 Goals: Be a good Competitive Programmer & Good Developer.
 - ⚡ Fun fact: I love to debate, public speacking and learning new things.
 
 <br />
