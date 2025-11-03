@@ -14,7 +14,7 @@ Feel free to reach out and connect!
     Md. Ahanaf Arif Khan, **Md. Hasnain Ali**, Nirjor Saha, Md. Sadman Shakib Shoumik, Sangeeta Biswas
     <br> 2023 26th International Conference on Computer and Information Technology (ICCIT), 13-15 December 2023, Cox's Bazar, Bangladesh
 
-- <font size=5> [Interpreting Deep Neural Networks in Diabetic Retinopathy Grading: A Comparison with Human Decision Criteria](10.3390/life15091473)</font>
+- <font size=5> [Interpreting Deep Neural Networks in Diabetic Retinopathy Grading: A Comparison with Human Decision Criteria](https://doi.org/10.3390/life15091473)</font>
 
     Sangeeta Biswas, Md. Ahanaf Arif Khan, **Md. Hasnain Ali**, Johan Rohdin, Subrata Pramanik, Md. Iqbal Aziz Khan, Sanjoy Kumar Chakravarty, Bimal Kumar Pramanik
     <br> Life, Vol. 15, No. 9, Article 1473, September 2025
