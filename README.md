@@ -23,6 +23,11 @@ Feel free to reach out and connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdhasnainali)  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14350278/md-hasnain-ali?tab=topactivity) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=p8-B4i8AAAAJ&hl) [![ORCID](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-2367-9517)
 
+## 🏅 Certifications
+
+<a href="https://www.credly.com/badges/256522a1-467c-4b18-b8f3-ce9a549a2a32/public_url">
+  <img src="./mongodb-associate-developer.8.png" width="150" alt="MongoDB Certified Associate Developer">
+</a>
 
 ---
 
@@ -31,7 +36,6 @@ Feel free to reach out and connect!
     <img  src="https://img.shields.io/github/followers/mdhasnainali?label=Follow" alt="LinkedIn Badge"/>
     <img src="https://img.shields.io/github/stars/mdhasnainali?affiliations=OWNER%2CCOLLABORATOR" alt="LinkedIn Badge"/>
 </p>
-
 
 ## 🏆 Recent Achievement
 ![AI Hackathon Winner](./ai_hackathon_winner.png)
