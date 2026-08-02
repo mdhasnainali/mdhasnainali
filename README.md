@@ -1,17 +1,17 @@
 ### Hi there, I'm [Md. Hasnain Ali](https://mdhasnainali.com)
 
-## AI Engineer — ML Systems, MLOps/DevOps & Applied Research
-I care more about understanding how things work than just making them work. That curiosity started during my undergrad at the University of Rajshahi, where I spent long nights on computer vision research for medical imaging — not just training models, but digging into *why* they made the decisions they did. It later pulled me toward Large Language Models and AI agents, and now toward how these systems move beyond the cloud into the physical world through IoT, edge devices, and robotics.
+## AI Engineer building ML systems, MLOps/DevOps, and applied research
+I care more about understanding how things work than just making them work. That started back in undergrad at the University of Rajshahi, where I spent a lot of late nights doing computer vision research for medical imaging. I wasn't just trying to get a model to work, I wanted to know why it made the decisions it did. That same curiosity eventually pulled me toward Large Language Models and AI agents, and lately I've been thinking about how these systems might move past the cloud and into the physical world through IoT, edge devices, and robotics.
 
-Day to day, I turn research ideas into systems people actually use — building ML/LLM pipelines and the deployment infrastructure, MLOps, and DevOps practices that keep them reliable in production. But the part I enjoy most is still the research itself: getting stuck on an idea for days and finally watching it click.
+Day to day, I turn research ideas into things people actually use. That means building ML/LLM pipelines along with the deployment infrastructure, MLOps, and DevOps practices that keep them running reliably in production. Still, the part I enjoy most is the research itself: getting stuck on an idea for days and then finally watching it click.
 
 Feel free to reach out and connect!
 
 📖 **Currently:** AI Engineer at [Vivasoft Limited](https://vivasoftltd.com/), building and deploying production ML/LLM systems
 
-📍 **Research Focus:** Efficient, interpretable AI systems — LLM/agent inference optimization, MLOps & DevOps for ML infrastructure, and edge/IoT/robotics deployment
+📍 **Research Focus:** Efficient, interpretable AI systems, including LLM/agent inference optimization, MLOps and DevOps for ML infrastructure, and edge/IoT/robotics deployment
 
-🎓 **Next Chapter:** Working toward a PhD in AI systems research — efficiency, interpretability, and real-world robustness beyond the benchmark
+🎓 **Next Chapter:** Working toward a PhD in AI systems research, focused on efficiency, interpretability, and real world robustness beyond the benchmark
 
 ## 📚 Published Papers
 - **[Geo-HySTE: Geometric hybrid spatio-temporal encoder for enhanced 3D human pose estimation](https://www.sciencedirect.com/science/article/abs/pii/S0045790626004453)**
