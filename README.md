@@ -11,34 +11,34 @@ Feel free to reach out and connect!
 
 ---
 
-## 🏆 Recent Achievement
-![AI Hackathon Winner](./assets/ai-hackathon-winner.png)
-> 🥇 **Winner – AI Hackathon 2025**
-> Developed **VisionDesk**, an AI-driven surveillance solution for manufacturing and industrial environments.
-> Leveraged advanced **pose estimation** and **activity recognition** to distinguish productive behaviors (e.g., assembling, typing) from non-productive actions (e.g., idling, phone usage).
-> Provided actionable insights to optimize workforce efficiency, process automation, quality control, and supply chain performance.
-
 ## 📚 Published Papers
-- **[Competency Comparison of Deep Neural Networks for Identifying Gender in Color Fundus Photographs](https://doi.org/10.1109/ICCIT60459.2023.10441623)**
+- **[Geo-HySTE: Geometric hybrid spatio-temporal encoder for enhanced 3D human pose estimation](https://www.sciencedirect.com/science/article/abs/pii/S0045790626004453)**
 
-    Md. Ahanaf Arif Khan, **Md. Hasnain Ali**, Nirjor Saha, Md. Sadman Shakib Shoumik, Sangeeta Biswas
-    <br> 2023 26th International Conference on Computer and Information Technology (ICCIT), 13-15 December 2023, Cox's Bazar, Bangladesh
+    Sanjoy Kumar, Sangeeta Biswas, Md Ahanaf Arif Khan, **Md Hasnain Ali**, Mehedi Hasan Shakil
+    <br> Computers and Electrical Engineering, Vol. 139, Article 111375, November 2026
 
 - **[Interpreting Deep Neural Networks in Diabetic Retinopathy Grading: A Comparison with Human Decision Criteria](https://doi.org/10.3390/life15091473)**
 
     Sangeeta Biswas, Md. Ahanaf Arif Khan, **Md. Hasnain Ali**, Johan Rohdin, Subrata Pramanik, Md. Iqbal Aziz Khan, Sanjoy Kumar Chakravarty, Bimal Kumar Pramanik
     <br> Life, Vol. 15, No. 9, Article 1473, September 2025
 
-- **Geo-HySTE: Geometric hybrid spatio-temporal encoder for enhanced 3D human pose estimation**
+- **[Competency Comparison of Deep Neural Networks for Identifying Gender in Color Fundus Photographs](https://doi.org/10.1109/ICCIT60459.2023.10441623)**
 
-    Sanjoy Kumar, Sangeeta Biswas, Md Ahanaf Arif Khan, **Md Hasnain Ali**, Mehedi Hasan Shakil
-    <br> Computers and Electrical Engineering, Vol. 139, Article 111375, November 2026
+    Md. Ahanaf Arif Khan, **Md. Hasnain Ali**, Nirjor Saha, Md. Sadman Shakib Shoumik, Sangeeta Biswas
+    <br> 2023 26th International Conference on Computer and Information Technology (ICCIT), 13-15 December 2023, Cox's Bazar, Bangladesh
 
 ## 🏅 Certifications
 
 <a href="https://www.credly.com/badges/256522a1-467c-4b18-b8f3-ce9a549a2a32/public_url">
   <img src="./assets/mongodb-associate-developer.png" width="150" alt="MongoDB Certified Associate Developer">
 </a>
+
+## 🏆 Recent Achievement
+![AI Hackathon Winner](./assets/ai-hackathon-winner.png)
+> 🥇 **Winner – AI Hackathon 2025**
+> Developed **VisionDesk**, an AI-driven surveillance solution for manufacturing and industrial environments.
+> Leveraged advanced **pose estimation** and **activity recognition** to distinguish productive behaviors (e.g., assembling, typing) from non-productive actions (e.g., idling, phone usage).
+> Provided actionable insights to optimize workforce efficiency, process automation, quality control, and supply chain performance.
 
 ## 🌐 Socials
 
