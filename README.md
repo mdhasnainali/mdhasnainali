@@ -9,8 +9,6 @@ Feel free to reach out and connect!
 
 📍 **Learning Focus:** AI system design and inference optimization for large language models
 
----
-
 ## 📚 Published Papers
 - **[Geo-HySTE: Geometric hybrid spatio-temporal encoder for enhanced 3D human pose estimation](https://www.sciencedirect.com/science/article/abs/pii/S0045790626004453)**
 
@@ -33,13 +31,6 @@ Feel free to reach out and connect!
   <img src="./assets/mongodb-associate-developer.png" width="150" alt="MongoDB Certified Associate Developer">
 </a>
 
-## 🏆 Recent Achievement
-![AI Hackathon Winner](./assets/ai-hackathon-winner.png)
-> 🥇 **Winner – AI Hackathon 2025**
-> Developed **VisionDesk**, an AI-driven surveillance solution for manufacturing and industrial environments.
-> Leveraged advanced **pose estimation** and **activity recognition** to distinguish productive behaviors (e.g., assembling, typing) from non-productive actions (e.g., idling, phone usage).
-> Provided actionable insights to optimize workforce efficiency, process automation, quality control, and supply chain performance.
-
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdhasnainali)  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14350278/md-hasnain-ali?tab=topactivity) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=p8-B4i8AAAAJ&hl) [![ORCID](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-2367-9517)
@@ -51,3 +42,11 @@ Feel free to reach out and connect!
     <img src="https://img.shields.io/github/followers/mdhasnainali?label=Follow" alt="GitHub followers Badge"/>
     <img src="https://img.shields.io/github/stars/mdhasnainali?affiliations=OWNER%2CCOLLABORATOR" alt="GitHub stars Badge"/>
 </p>
+
+
+## 🏆 Recent Achievement
+![AI Hackathon Winner](./assets/ai-hackathon-winner.png)
+> 🥇 **Winner – AI Hackathon 2025**
+> Developed **VisionDesk**, an AI-driven surveillance solution for manufacturing and industrial environments.
+> Leveraged advanced **pose estimation** and **activity recognition** to distinguish productive behaviors (e.g., assembling, typing) from non-productive actions (e.g., idling, phone usage).
+> Provided actionable insights to optimize workforce efficiency, process automation, quality control, and supply chain performance.
