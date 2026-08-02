@@ -1,13 +1,17 @@
 ### Hi there, I'm [Md. Hasnain Ali](https://mdhasnainali.com)
 
-## I'm an AI Researcher, specialized in Deep Learning & Computer Vision, and a Data Science Enthusiast!
-I'm a Computer Science and Engineering graduate, deeply passionate about harnessing the potential of AI and data science to address tangible and efficient solutions to real-world problems. Constantly expanding my expertise in these fields to tackle intricate challenges and create impactful solutions for society. My journey began with a solid foundation in computer science, and my curiosity fuels my exploration of cutting-edge techniques like deep learning and machine learning. I am constantly learning and refining my skills, and I am excited to collaborate and contribute to meaningful projects on this platform. Here, you'll find my exploration of various data science concepts through code and projects.
+## AI Engineer — ML Systems, MLOps/DevOps & Applied Research
+I care more about understanding how things work than just making them work. That curiosity started during my undergrad at the University of Rajshahi, where I spent long nights on computer vision research for medical imaging — not just training models, but digging into *why* they made the decisions they did. It later pulled me toward Large Language Models and AI agents, and now toward how these systems move beyond the cloud into the physical world through IoT, edge devices, and robotics.
+
+Day to day, I turn research ideas into systems people actually use — building ML/LLM pipelines and the deployment infrastructure, MLOps, and DevOps practices that keep them reliable in production. But the part I enjoy most is still the research itself: getting stuck on an idea for days and finally watching it click.
 
 Feel free to reach out and connect!
 
-📖 **Currently:** AI Engineer at [Vivasoft Limited](https://vivasoftltd.com/)
+📖 **Currently:** AI Engineer at [Vivasoft Limited](https://vivasoftltd.com/), building and deploying production ML/LLM systems
 
-📍 **Learning Focus:** AI system design and inference optimization for large language models
+📍 **Research Focus:** Efficient, interpretable AI systems — LLM/agent inference optimization, MLOps & DevOps for ML infrastructure, and edge/IoT/robotics deployment
+
+🎓 **Next Chapter:** Working toward a PhD in AI systems research — efficiency, interpretability, and real-world robustness beyond the benchmark
 
 ## 📚 Published Papers
 - **[Geo-HySTE: Geometric hybrid spatio-temporal encoder for enhanced 3D human pose estimation](https://www.sciencedirect.com/science/article/abs/pii/S0045790626004453)**
