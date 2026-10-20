@@ -34,6 +34,9 @@ Feel free to reach out and connect!
 <a href="https://www.credly.com/badges/256522a1-467c-4b18-b8f3-ce9a549a2a32/public_url">
   <img src="./assets/mongodb-associate-developer.png" width="150" alt="MongoDB Certified Associate Developer">
 </a>
+<a href="https://www.credly.com/badges/07d29ce0-0a22-423a-a663-76d7b333a797/public_url">
+  <img src="./assets/aws-certified-solutions-architect-associate.png" width="150" alt="AWS Certified Solutions Architect – Associate (SAA-C03)">
+</a>
 
 ## 🌐 Socials
 
