@@ -1,6 +1,7 @@
 ### Hi there, I'm [Md. Hasnain Ali](https://mdhasnainali.com)
 
 ## AI Engineer building ML systems, MLOps/DevOps, and applied research
+
 I care more about understanding how things work than just making them work. That started back in undergrad at the University of Rajshahi, where I spent a lot of late nights doing computer vision research for medical imaging. I wasn't just trying to get a model to work, I wanted to know why it made the decisions it did. That same curiosity eventually pulled me toward Large Language Models and AI agents, and lately I've been thinking about how these systems might move past the cloud and into the physical world through IoT, edge devices, and robotics.
 
 Day to day, I turn research ideas into things people actually use. That means building ML/LLM pipelines along with the deployment infrastructure, MLOps, and DevOps practices that keep them running reliably in production. Still, the part I enjoy most is the research itself: getting stuck on an idea for days and then finally watching it click.
@@ -14,20 +15,21 @@ Feel free to reach out and connect!
 🎓 **Next Chapter:** Working toward a PhD in AI systems research, focused on efficiency, interpretability, and real world robustness beyond the benchmark
 
 ## 📚 Published Papers
+
 - **[Geo-HySTE: Geometric hybrid spatio-temporal encoder for enhanced 3D human pose estimation](https://www.sciencedirect.com/science/article/abs/pii/S0045790626004453)**
 
-    Sanjoy Kumar, Sangeeta Biswas, Md Ahanaf Arif Khan, **Md Hasnain Ali**, Mehedi Hasan Shakil
-    <br> Computers and Electrical Engineering, Vol. 139, Article 111375, November 2026
+  Sanjoy Kumar, Sangeeta Biswas, Md Ahanaf Arif Khan, **Md Hasnain Ali**, Mehedi Hasan Shakil
+  <br> Computers and Electrical Engineering, Vol. 139, Article 111375, November 2026
 
 - **[Interpreting Deep Neural Networks in Diabetic Retinopathy Grading: A Comparison with Human Decision Criteria](https://doi.org/10.3390/life15091473)**
 
-    Sangeeta Biswas, Md. Ahanaf Arif Khan, **Md. Hasnain Ali**, Johan Rohdin, Subrata Pramanik, Md. Iqbal Aziz Khan, Sanjoy Kumar Chakravarty, Bimal Kumar Pramanik
-    <br> Life, Vol. 15, No. 9, Article 1473, September 2025
+  Sangeeta Biswas, Md. Ahanaf Arif Khan, **Md. Hasnain Ali**, Johan Rohdin, Subrata Pramanik, Md. Iqbal Aziz Khan, Sanjoy Kumar Chakravarty, Bimal Kumar Pramanik
+  <br> Life, Vol. 15, No. 9, Article 1473, September 2025
 
 - **[Competency Comparison of Deep Neural Networks for Identifying Gender in Color Fundus Photographs](https://doi.org/10.1109/ICCIT60459.2023.10441623)**
 
-    Md. Ahanaf Arif Khan, **Md. Hasnain Ali**, Nirjor Saha, Md. Sadman Shakib Shoumik, Sangeeta Biswas
-    <br> 2023 26th International Conference on Computer and Information Technology (ICCIT), 13-15 December 2023, Cox's Bazar, Bangladesh
+  Md. Ahanaf Arif Khan, **Md. Hasnain Ali**, Nirjor Saha, Md. Sadman Shakib Shoumik, Sangeeta Biswas
+  <br> 2023 26th International Conference on Computer and Information Technology (ICCIT), 13-15 December 2023, Cox's Bazar, Bangladesh
 
 ## 🏅 Certifications
 
@@ -40,19 +42,20 @@ Feel free to reach out and connect!
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdhasnainali)  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14350278/md-hasnain-ali?tab=topactivity) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=p8-B4i8AAAAJ&hl) [![ORCID](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-2367-9517)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdhasnainali) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14350278/md-hasnain-ali?tab=topactivity) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=p8-B4i8AAAAJ&hl) [![ORCID](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-2367-9517)
 
 ---
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=mdhasnainali&color=blue" alt="Profile views">
+    <img src="https://komarev.com/ghpvc/?username=mdhasnainali&color=blue">
     <img src="https://img.shields.io/github/followers/mdhasnainali?label=Follow" alt="GitHub followers Badge"/>
     <img src="https://img.shields.io/github/stars/mdhasnainali?affiliations=OWNER%2CCOLLABORATOR" alt="GitHub stars Badge"/>
 </p>
 
-
 ## 🏆 Recent Achievement
+
 ![AI Hackathon Winner](./assets/ai-hackathon-winner.png)
+
 > 🥇 **Winner – AI Hackathon 2025**
 > Developed **VisionDesk**, an AI-driven surveillance solution for manufacturing and industrial environments.
 > Leveraged advanced **pose estimation** and **activity recognition** to distinguish productive behaviors (e.g., assembling, typing) from non-productive actions (e.g., idling, phone usage).
