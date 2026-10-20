@@ -45,7 +45,7 @@ Feel free to reach out and connect!
 ---
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=mdhasnainali&color=blue">
+    <img src="https://komarev.com/ghpvc/?username=mdhasnainali&color=blue" alt="Profile views">
     <img src="https://img.shields.io/github/followers/mdhasnainali?label=Follow" alt="GitHub followers Badge"/>
     <img src="https://img.shields.io/github/stars/mdhasnainali?affiliations=OWNER%2CCOLLABORATOR" alt="GitHub stars Badge"/>
 </p>
